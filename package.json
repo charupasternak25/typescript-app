@@ -1,0 +1,17 @@
+{
+  "name": "typescript-app",
+  "version": "1.0.0",
+  "description": "This app puts markers on google maps for a user and a company.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/charupasternak25/typescript-app.git"
+  },
+  "author": "Charu Pasternak",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "typescript": "^4.0.5"
+  },
+  "dependencies": {
+    "faker": "^5.1.0"
+  }
+}
